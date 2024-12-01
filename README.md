@@ -10,7 +10,7 @@
 Hi there! I’m Aditya, a **research-driven problem solver** passionate about advancing technology in areas like **Cybersecurity**, **Machine Learning**, and **Quantum Computing**. I’m currently pursuing **B.E. in Electronics & Telecommunication** (Honours in Cybersecurity)  
 
 📚 **When I'm not coding, you'll find me:**  
-🎾 Playing Lawn Tennis or Squash
+🏃‍♂️ Playing Lawn Tennis or Squash </br>
 🌱 Working with communities to drive positive change  
 
 ---
@@ -47,7 +47,7 @@ _Certificate in French_ (2022–2023)
 ## 🌐 **Community Involvement & Outreach**
 
 ### Service  
-- **Founder & President**, [Cybersecurity Club, TCOER](https://www.kjei.edu.in/tcoer/Cyber_Club/home.html)  
+- **Founder & President**, <a href="https://www.kjei.edu.in/tcoer/Cyber_Club/home.html" target="_blank">Cybersecurity Club, TCOER</a>
   Founded and lead the club to organize workshops, events, and competitions that raise awareness of cybersecurity trends, tools, privacy, and networking.
 
 - **Founder & Director**, **thinkMINNT Foundation**  
