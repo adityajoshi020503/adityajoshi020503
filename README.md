@@ -1,4 +1,4 @@
-# 👋 **Hey there! I'm Aditya Rajkumar Joshi**  
+ # 👋 **Hey there! I'm Aditya Rajkumar Joshi**  
 🚀 **Cybersecurity Enthusiast | Quantum Computing Explorer | Way towards Machine Learning**  
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&width=600&lines=Cybersecurity+%7C+Quantum+Computing+Explorer+%7C+AI+Enthusiast;Researcher+Passionate+About+Innovating;Welcome+to+my+GitHub+Space!+)  
@@ -51,7 +51,7 @@ _Certificate in French_ (2022–2023)
   Founded and lead the club to organize workshops, events, and competitions that raise awareness of cybersecurity trends, tools, privacy, and networking.
 
 - **Founder & Director**, **thinkMINNT Foundation**  
-  Established a non-profit organization to empower high school students by bridging traditional education with emerging fields like AI, cybersecurity, and data science through MINNT-based initiatives (Mathematics, Informatics, Natural Sciences, Technology, and Networking).
+  Established a non-profit organization under section 8 of the Companies Act, 2013, to empower high school students by bridging traditional education with emerging fields like AI, cybersecurity, and data science through MINNT-based initiatives (Mathematics, Informatics, Natural Sciences, Technology, and Networking).
 
 ---
 
@@ -60,7 +60,7 @@ _Certificate in French_ (2022–2023)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Joshi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajoshi)  
 [![Email](https://img.shields.io/badge/Email-adityajoshi020503@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityajoshi020503@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-adityarajkumarjoshi-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityarajkumarjoshi)  
+[![Instagram](https://img.shields.io/badge/Instagram-adityajoshi_8-black?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/adityajoshi_8/)
 
 ---
 
