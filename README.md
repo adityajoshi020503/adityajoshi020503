@@ -1,5 +1,5 @@
 # 👋 **Hey there! I'm Aditya Rajkumar Joshi**  
-🚀 **Cybersecurity Enthusiast | Machine Learning Explorer**  
+🚀 **Cybersecurity Enthusiast | Quantum Computing Explorer | Way towards Machine Learning**  
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&width=600&lines=Cybersecurity+%7C+Quantum+Computing+Explorer+%7C+AI+Enthusiast;Researcher+Passionate+About+Innovating;Welcome+to+my+GitHub+Space!+)  
 
