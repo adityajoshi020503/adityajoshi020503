@@ -47,11 +47,11 @@ _Certificate in French_ (2022–2023)
 ## 🌐 **Community Involvement & Outreach**
 
 ### Service  
-- **Founder & President**, <a href="https://www.kjei.edu.in/tcoer/Cyber_Club/home.html" target="_blank">Cybersecurity Club, TCOER</a></br>
-  Founded and lead the club to organize workshops, events, and competitions that raise awareness of cybersecurity trends, tools, privacy, and networking.
+- **Founder & President**, [Cybersecurity Club, TCOER](https://www.kjei.edu.in/tcoer/Cyber_Club/home.html)  
+  Founded and led the club to organize workshops, events, and competitions that raise awareness of cybersecurity trends, tools, privacy, and networking.
 
-- **Founder & Director**, **thinkMINNT Foundation**  
-  Established a non-profit organization under section 8 of the Companies Act, 2013, to empower high school students by bridging traditional education with emerging fields like AI, cybersecurity, and data science through MINNT-based initiatives (Mathematics, Informatics, Natural Sciences, Technology, and Networking).
+- **Founder & Director**, [ThinkMINNT Foundation](https://thinkminnt.com)  
+  Established a non-profit organization under Section 8 of the Companies Act, 2013, to empower high school students by bridging traditional education with emerging fields like AI, cybersecurity, and data science through MINNT-based initiatives (Mathematics, Informatics, Natural Sciences, Technology, and Networking).  
 
 ---
 
